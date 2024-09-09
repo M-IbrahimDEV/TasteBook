@@ -1,0 +1,15 @@
+misselenious/
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React
+client/node_modules/
+client/build/
+
+# Environment Variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
